@@ -1,7 +1,7 @@
 
 # Digital Lab Simulation
 
-In Electronics/ computer/ IT/ Engineering academic curriculum there is subject-Digital Logic design which fills very difficult for students as they can not get the concepts clear of how digital circuits work actually and hence they lack confidence in practicals.
+In Electronics/ computer/ IT/ Engineering academic curriculum there is subject-Digital Logic design which feels very difficult for students as they can not get the concepts clear of how digital circuits work actually and hence they lack confidence in practicals.
 
 My this project will definitely help students just by installing Java jdk latest version on their computer and simply double click on `simulation.jar` file in project directory.
 
