@@ -13,6 +13,7 @@ click on topic which you want study and try giving inputs in 0s and 1s and accor
 ## Project Demo
 Click PLAY Button
 
+https://github.com/Vaibhavi-Kale/Digital-Lab-Simulation/assets/169228708/8c225ebe-4387-46d8-93e0-184a39dedb82
 
 
 
