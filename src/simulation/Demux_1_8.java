@@ -31,7 +31,7 @@ public class Demux_1_8 extends javax.swing.JFrame {
         jLabel4 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Project Created By : Vaibhavi Kale, Prijeksha Khairnar, Mayuri Khandagale, Mrunal Pote");
+        setTitle("Project Created By : Vaibhavi Kale, Yojana Killedar, Yugant Nikumbh");
         setLocation(new java.awt.Point(0, 0));
         setResizable(false);
 

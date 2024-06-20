@@ -24,7 +24,7 @@ public class AND extends javax.swing.JFrame {
         dashboard = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Project Created By : Vaibhavi Kale, Prijeksha Khairnar, Mayuri Khandagale, Mrunal Pote");
+        setTitle("Project Created By : Vaibhavi Kale, Yojana Killedar, Yugant Nikumbh");
         setLocation(new java.awt.Point(0, 0));
         setResizable(false);
 

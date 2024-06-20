@@ -22,7 +22,7 @@ public class Demux_1_2 extends javax.swing.JFrame {
         y1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Project Created By : Vaibhavi Kale, Prijeksha Khairnar, Mayuri Khandagale, Mrunal Pote");
+        setTitle("Project Created By : Vaibhavi Kale, Yojana Killedar, Yugant Nikumbh");
         setLocation(new java.awt.Point(0, 0));
         setResizable(false);
 

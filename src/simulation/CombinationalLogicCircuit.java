@@ -22,7 +22,7 @@ public class CombinationalLogicCircuit extends javax.swing.JFrame {
         jButton3 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Project Created By : Vaibhavi Kale, Prijeksha Khairnar, Mayuri Khandagale, Mrunal Pote");
+        setTitle("Project Created By : Vaibhavi Kale, Yojana Killedar, Yugant Nikumbh");
         setLocation(new java.awt.Point(300, 20));
         setResizable(false);
 
