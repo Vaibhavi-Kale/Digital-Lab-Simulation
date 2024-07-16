@@ -1,5 +1,5 @@
 
-# Digital Lab Simulation
+# Digital Lab Simulation 
 
 In Electronics/ computer/ IT/ Engineering academic curriculum there is subject-Digital Logic design which feels very difficult for students as they can not get the concepts clear of how digital circuits work actually and hence they lack confidence in practicals.
 
